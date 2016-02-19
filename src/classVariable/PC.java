@@ -16,15 +16,16 @@ public class PC {
 	String typeofDrive;
 	String connectors;
 	int USB;
-	Boolean Net;
+	boolean Net;
 	String driveUnit;
-	Boolean Audio;
-	Boolean Multimedia;
-	Boolean OC;
+	boolean Audio;
+	
+	boolean Multimedia;
+	boolean OC;
 	String HousingMaterial;
 	String colour;
 	String design;
 	String dimensions;
 	int weight;
-	Boolean headset;
+	boolean headset;
 }

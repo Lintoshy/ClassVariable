@@ -5,5 +5,5 @@ public class mousePC {
 	String connectionType;
 	String color;
 	int sensorResolution;
-	Boolean additionalButtons;
+	boolean additionalButtons;
 }
